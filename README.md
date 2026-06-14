@@ -1,4 +1,4 @@
-# techstore-sistema# TechStore Sistemas
+ TechStore Sistemas
 
 Sistema de gerenciamento para loja virtual.
 
